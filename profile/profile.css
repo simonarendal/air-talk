@@ -1,0 +1,31 @@
+/*  Setup some basic styling for the body */
+body {
+    background: #92d990;
+    color: #fff;
+    font-family: "roboto", sans-serif;
+    text-align: center;
+  }
+  
+  a {
+    color: #fff;
+  }
+  
+  a:visited {
+    color: #ddd;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .taken {
+    height: 100px !important;
+    width: 100px !important;
+    transition: all 0.5s ease-in;
+    border: solid 3px white;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+  }
+  

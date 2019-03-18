@@ -31,12 +31,12 @@ body {
   text-align: center;
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
   position: fixed;
-  bottom: 30px;
+  bottom: 90px;
   left: calc(50% - 100px);
 }
 
 #next {
-  width: 200px;
+  width: 80px;
   background-color: black;
   color: white;
   font-size: 16px;
@@ -47,7 +47,7 @@ body {
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
   position: fixed;
   bottom: 30px;
-  left: calc(20% - 100px);
+  left: calc(50% - 40px);
 }
 
 .taken {
